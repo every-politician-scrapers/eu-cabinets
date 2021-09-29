@@ -32,9 +32,8 @@ jobs:
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: data-update
-        branch-suffix: timestamp
         delete-branch: true
-        title: 'Automated update'
+        title: 'Current list'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs
