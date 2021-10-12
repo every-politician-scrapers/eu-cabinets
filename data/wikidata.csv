@@ -1,5 +1,5 @@
 country,cabinet,countryItemLabel,cabinetItemLabel
-Q40,Q80810433,Austria,Second Kurz cabinet
+Q40,,Austria,
 Q31,Q99749625,Belgium,De Croo government
 Q219,Q108559722,Bulgaria,2nd Yanev Government
 Q224,Q97652364,Croatia,Cabinet of Andrej Plenković II
@@ -21,7 +21,7 @@ Q32,Q104776182,Luxembourg,Bettel–Kersch-Bausch ministry
 Q233,Q86725348,Malta,Abela Cabinet
 Q36,Q75110838,Poland,Second Cabinet of Mateusz Morawiecki
 Q45,Q71014092,Portugal,XXII Constitutional Government of Portugal
-Q218,,Romania,
+Q218,Q104440634,Romania,Cîțu Cabinet
 Q214,Q106303161,Slovakia,Heger's Cabinet
 Q215,Q86754501,Slovenia,14th Government of Slovenia
 Q29,Q80922158,Spain,Sánchez II Government
