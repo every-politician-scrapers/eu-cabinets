@@ -20,7 +20,7 @@ query = <<SPARQL
     }
     SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
   }
-  ORDER BY ?countryItemLabel
+  ORDER BY ?countryItemLabel ?cabinet
 SPARQL
 
 agent = 'every-politican-scrapers/eu-cabinets'
