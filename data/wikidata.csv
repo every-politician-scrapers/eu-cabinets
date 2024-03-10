@@ -1,30 +1,34 @@
 country,cabinet,countryItemLabel,cabinetItemLabel
-Q40,Q109907459,Austria,Nehammer government
+Q40,,Austria,
 Q31,Q99749625,Belgium,De Croo government
-Q219,Q116620523,Bulgaria,Second Donev Government
-Q224,Q97652364,Croatia,Cabinet of Andrej Plenković II
-Q229,,Cyprus,
-Q213,Q109453202,Czech Republic,Petr Fiala's Cabinet
+Q219,Q119142587,Bulgaria,Denkov Government
+Q224,,Croatia,
+Q229,Q116847231,Cyprus,Christodoulidis Government
+Q213,,Czech Republic,
 Q35,Q115694681,Denmark,Frederiksen II Cabinet
-Q191,Q113136898,Estonia,Kaja Kallas' second cabinet
-Q33,Q77972346,Finland,Sanna Marin's cabinet
-Q142,Q112042684,France,Borne government
+Q191,Q117481522,Estonia,Kaja Kallas' third cabinet
+Q33,,Finland,
 Q142,Q112894205,France,2nd Borne Government
-Q183,Q109712556,Germany,Scholz cabinet
-Q41,Q65184515,Greece,Cabinet of Kyriakos Mitsotakis
+Q142,Q124218594,France,Attal government
+Q142,Q2366397,France,Q2366397
+Q183,,Germany,
+Q41,,Greece,
 Q28,Q111475445,Hungary,Fifth Orbán Government
 Q38,Q114796219,Italy,Meloni Cabinet
 Q29999,,Kingdom of the Netherlands,
 Q211,Q115349247,Latvia,2nd Kariņš Cabinet
 Q37,Q101558001,Lithuania,Šimonytė Cabinet
 Q32,Q110473015,Luxembourg,Bettel-Lenert-Bausch ministry
+Q32,Q123472704,Luxembourg,Frieden-Bettel Government
 Q32,Q59461371,Luxembourg,Bettel–Schneider Government II
 Q233,Q111439067,Malta,2nd Abela Cabinet
-Q36,Q75110838,Poland,Second Cabinet of Mateusz Morawiecki
+Q36,Q11816751,Poland,Q11816751
+Q36,Q123752134,Poland,Third Cabinet of Donald Tusk
 Q45,Q110819776,Portugal,XXIII Constitutional Government of Portugal
-Q27,Q115743804,Republic of Ireland,Second Varadkar Ministry
-Q218,Q109680585,Romania,Ciucă Cabinet
-Q214,Q106303161,Slovakia,Heger's Cabinet
+Q27,,Republic of Ireland,
+Q218,Q119472111,Romania,Ciolacu Cabinet
+Q214,,Slovakia,
 Q215,Q112121256,Slovenia,15th Government of Slovenia
-Q29,Q80922158,Spain,Sánchez II Government
+Q215,Q11918478,Slovenia,Q11918478
+Q29,Q123463301,Spain,Third government of Pedro Sánchez
 Q34,Q114671310,Sweden,Kristersson Cabinet
